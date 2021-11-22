@@ -1,0 +1,17 @@
+name: Database project
+
+on: [push, pull_request]
+
+jobs:
+  build-database:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Add msbuild to PATH
+        uses: microsoft/setup-msbuild@v1.1
+      - name: create dacpac
+        run: msbuild src/CustomerLibruary.Database/CustomerLibruary.Database.sqlproj /p:Configuration=Release
+      - uses: actions/upload-artifact@v2
+        with:
+          name: DACPAC
+          path: ${{ github.workspace }}/src/CustomerLibruary.Database/bin/Release/

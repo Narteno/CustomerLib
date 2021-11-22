@@ -1,0 +1,10 @@
+I:\Проги\education-sql\CustomerLib\CustomerLibruary.Database\CustomerLibruary.Database\bin\Debug\CustomerLibruary.Database.dacpac
+I:\Проги\education-sql\CustomerLib\CustomerLibruary.Database\CustomerLibruary.Database\bin\Debug\CustomerLibruary.Database.dll
+I:\Проги\education-sql\CustomerLib\CustomerLibruary.Database\CustomerLibruary.Database\bin\Debug\CustomerLibruary.Database.pdb
+I:\Проги\education-sql\CustomerLib\CustomerLibruary.Database\CustomerLibruary.Database\obj\Debug\CustomerLibruary.Database.sqlproj.AssemblyReference.cache
+I:\Проги\education-sql\CustomerLib\CustomerLibruary.Database\CustomerLibruary.Database\obj\Debug\Model.xml
+I:\Проги\education-sql\CustomerLib\CustomerLibruary.Database\CustomerLibruary.Database\obj\Debug\refactor.xml
+I:\Проги\education-sql\CustomerLib\CustomerLibruary.Database\CustomerLibruary.Database\obj\Debug\postdeploy.sql
+I:\Проги\education-sql\CustomerLib\CustomerLibruary.Database\CustomerLibruary.Database\obj\Debug\predeploy.sql
+I:\Проги\education-sql\CustomerLib\CustomerLibruary.Database\CustomerLibruary.Database\obj\Debug\CustomerLibruary.Database.dll
+I:\Проги\education-sql\CustomerLib\CustomerLibruary.Database\CustomerLibruary.Database\obj\Debug\CustomerLibruary.Database.pdb
